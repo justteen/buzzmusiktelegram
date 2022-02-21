@@ -1,8 +1,8 @@
-###BUZZ MUSIC
+### BUZZ MUSIC
 
 [![BUZZ LOGO](https://telegra.ph/file/611ea282dd7367fce617d.jpg)](https://t.me/buzzrebornbot)
 
-###Requirements 📝
+### Requirements 📝
 
 - FFmpeg (Latest)
 
