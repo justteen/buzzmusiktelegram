@@ -58,7 +58,7 @@
 
 ## String Session :
 
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@justteen/StringSession)
+[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@justteen/String-Session)
 
 ## Cara mudah untuk deploy Bot ini
 
