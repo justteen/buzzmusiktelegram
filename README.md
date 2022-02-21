@@ -68,5 +68,5 @@
 
 ### Support & Updates 
 
-<a href="https://t.me/buzzsupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> a 
+<a href="https://t.me/buzzsupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> 
 
