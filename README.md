@@ -1,10 +1,10 @@
 # buzzmusiktelegram
-VCG Telegram
-###BUZZ MUSIC
+
+
 
 [![BUZZ LOGO](https://telegra.ph/Logo-BUZZ-02-21)](https://t.me/buzzrebornbot)
 
-<h3>Requirements 📝</h3>
+# requirements 📝
 
 - FFmpeg (Latest)
 
