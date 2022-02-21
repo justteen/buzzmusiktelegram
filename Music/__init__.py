@@ -129,7 +129,7 @@ ASSUSERNAME = ""
 ASSMENTION = ""
 print("[INFO]: INITIALIZING BOT CLIENT")
 app = Client(
-    "Music",
+    "MusicBot",
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
