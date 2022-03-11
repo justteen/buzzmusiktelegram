@@ -43,7 +43,7 @@ def start_pannel():
             InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/psycho_syridwan")
+            InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/psycho_syridwan"),
             InlineKeyboardButton("MOD•Nur", url=f"https://t.me/xnafrlzy"),
             InlineKeyboardButton("MOD•Winie", url=f"https://t.me/CitraAyuWinieF"),
         ],
@@ -70,9 +70,9 @@ pstart_markup = InlineKeyboardMarkup(
             InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/psycho_syridwan")
-            InlineKeyboardButton("MOD•Nur", url=f"https://t.me/xnafrlzy")
-            InlineKeyboardButton("MOD•Winie", url=f"https://t.me/CitraAyuWinieF")
+            InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/psycho_syridwan"),
+            InlineKeyboardButton("MOD•Nur", url=f"https://t.me/xnafrlzy"),
+            InlineKeyboardButton("MOD•Winie", url=f"https://t.me/CitraAyuWinieF"),
         ],
         [
             InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅ", url="https://telegra.ph/BUZZ-MUSIK-02-21"),
