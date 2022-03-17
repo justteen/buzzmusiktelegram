@@ -146,11 +146,10 @@ async def play(_, message: Message):
             text=f"""
 **✨ Hello Gess {rpk}!**
 
-❃ 𝐓𝐕 𝐌𝐮𝐬𝐢𝐤 ❃
+❃ 𝐁 𝐔 𝐙 𝐙 𝐌𝐮𝐬𝐢𝐤 ❃
 Bot untuk memutar musik dalam obrolan suara group chat anda.
 🎧 Jangan lupa untuk menambahkan asisten musik juga, agar dapat memutar musiknya. 🎧
 Design for
-[Teman Virtual](https://t.me/+kmLDgM_WfyM4NDU1)
 
 💡 Untuk Mengetahui Semua Perintah Bot Dan Bagaimana Cara Pakai Nya Dengan Menekan Tombol » 📚 command!
 
