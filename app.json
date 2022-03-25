@@ -8,6 +8,7 @@
         "SESSION_NAME": {
             "description": "isi dengan string sesi pyrogram dari akun",
             "required": true
+            "value":"BQCIL4_BgFOEd7qwgBnm7IorokySgRMVjDyr6dY5vp-W3w3ITIDIkXaa_spkXPePJ41FEUIlG7jsWdIlfrU2L1SkSHBWQy0vEB0L-FQVVJj80xRQrquN_oPXq3iCKP-1sdRfP1jx88MjUh1E-f3BGpNqyWnyrqS2ZYZwHtC-2VfbkJR9Hl4pemlAwkPUuTrkWGSSikfCwd7OFcKgxSX8KcgdKI-L-EGHNDMxx-qtC1V-Sath-3TQDn8E3eaxoAQfrSpn7_qAFRMxeEcQB5F-FW5CoZFd8KwjSmBTOyrOFMtOzJKyUe9CFZKdX9PdblulmpHEiPOBzpALt8osA0TmrVOBY1YlSwA"
         },
         "OWNER_ID": {
             "description": "isi dengan id telegram Anda sebagai pemilik bot",
@@ -17,7 +18,7 @@
         "ASS_ID": {
             "description": "isi dengan telegram id akun assistant",
             "required": true,
-            "value": "5067474817"
+            "value": "1666590027"
         },
         "LOG_GROUP_ID": {
             "description": "buat grup pribadi dan dapatkan id grup, tambahkan bot Anda sebagai admin ke grup juga",
@@ -36,7 +37,7 @@
         },
         "HEROKU_API_KEY": {
             "description": "Kunci API akun Heroku Anda",
-            "value": "d65e9e5d-1cc0-40c6-bedf-f90bf3a2750e",
+            "value": "0764f5a0-8977-4700-ad2b-85cf25cef369",
             "required": false
         },
         "HEROKU_APP_NAME": {
@@ -67,7 +68,7 @@
         "BOT_TOKEN": {
             "description": "isi dengan token bot Anda dapatkan dari @BotFather di telegram",
             "required": true,
-            "value": "5062479194:AAHSu5ZYpmCH9Iuc41zseK924qT1FQoazW4"
+            "value": "5145903387:AAHC8s1kQQ2VmbFoUUAJeEcRSOnT-TZX93U"
         },
         "UPSTREAM_REPO": {
             "description": "Jika Anda tidak tahu ini, Biarkan apa adanya",
@@ -76,13 +77,14 @@
         },
         "UPSTREAM_BRANCH": {
             "description": "Nama Cabang Repo",
-            "value": "master",
+            "value": "main",
             "required": true
         },
         "MONGO_DB_URI": {
             "description": "isi dengan url mongodb dapatkan dari mongodb.cloud.com (jangan gunakan milik saya di bawah!)",
             "required": true,
-            "value": ""
+            "value": "mongodb+srv://tvmusik:tvmusik@cluster0.ugrb5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+"
         }
     },
     "buildpacks": [{
