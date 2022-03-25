@@ -53,11 +53,7 @@ async def load_start():
             pass     
     await app.send_message(LOG_GROUP_ID, "Bot Started")
     await client.send_message(LOG_GROUP_ID, "Assistant Started")
-    #Kalau clone atau fork jangan di hapus ya tolol
-    await client.join_chat("hiroshisupport")
-    await client.join_chat("bombleebas")
-    await client.join_chat("demonits")
-    print("[INFO]: STARTED")
+    
     
    
 loop = asyncio.get_event_loop()
